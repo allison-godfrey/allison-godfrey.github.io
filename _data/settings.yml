@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Journal
-  site_tagline: A stunning personal blog Jekyll theme with an image-focused design.
+  site_title: Allison Godfrey
+  site_tagline: Former math teacher and emerging data scientist
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -14,6 +14,8 @@ menu_settings:
       url: '/'
     - title: 'Projects'
       url: '/projects/'
+    - title: 'Blog'
+      url: '/blog/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
@@ -29,32 +31,9 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
-  twitter_url: ''
-  instagram_url: ''
-  snapchat_url: ''
-  youtube_url: ''
-  google-plus_url: ''
-  vimeo_url: ''
-  pinterest_url: ''
-  medium_url: ''
-  quora_url: ''
-  amazon_url: ''
-  apple_url: ''
-  android_url: ''
-  tumblr_url: ''
-  dribbble_url: ''
-  behance_url: ''
-  deviantart_url: ''
-  github_url: ''
-  reddit_url: ''
-  flickr_url: ''
-  etsy_url: ''
-  kickstarter_url: ''
-  soundcloud_url: ''
-  spotify_url: ''
-  bandcamp_url: ''
-  linkedin_url: ''
+  facebook_url: 'https://www.facebook.com/allison.godfrey.75'
+  github_url: 'https://github.com/allison-godfrey'
+  linkedin_url: 'https://www.linkedin.com/in/allison-godfrey/'
 
 color_settings:
   background_color: '#ffffff'
