@@ -20,21 +20,22 @@ The main components of the notebook are:
 * Univariate and Bivariate analysis of explanatory features
 * Replace missing values
 * Encode categorical features
-* Transform features
+* Transform skewed variables (features and outcome variable)
 * Outlier analysis
-* Exclusion of Columns
+* Exclusion of columns
 * Data split - train and dev data sets (later we move to Cross Validation)
-* Machine Learning Models Building
-* Bayesian Ridge Regression
-* Lasso Model
-* Bayesian ARD Regression
-* Elastic Net Regressor
-* Theil-Sen Estimator
-* Ordinary Least Squares Linear Regression
-* Random Forest Regressor
-* XGB Regressor
-* Ada Boost Regressor
-* Assessment of individual and blended model
+* Model Building
+	* Bayesian Ridge Regression
+	* Lasso Model
+	* Bayesian ARD Regression
+	* Elastic Net Regressor
+	* Theil-Sen Estimator
+	* Ordinary Least Squares Linear Regression
+	* Random Forest Regressor
+	* XGB Regressor
+	* Ada Boost Regressor
+	* Blended Model
+* Assessment of individual and blended models
 <br>
 
 #### Skills
@@ -111,10 +112,11 @@ From the beginning, our focus was more on *know your data*. We took the followin
 * Test with multiple machine learning algorithms focusing on handling multicollinearity issues.
 * Analyze the models RMSE values, fine tuned the weights and utilize the blended model.
 
-Through iterating back on the above processes, we started at a Kaggle placement of 3500 and have worked our way up to a placement of 525 (top 10% of submissions). 
+Through iterating back on the above processes, we started at a Kaggle placement of 3500 and have worked our way up to a placement of 525 **(top 10% of submissions).** 
 
-
-Some further extensions of our model would include:
+<br>
+<br>
+**Some further extensions of our model would include:**
 * Perfect the combination of manual feature selection and using L1 and L2 regularization to achieve the lowest possible RMSE without overfitting our train data.
 * Use a combination of LabelEncoder and One Hot Encoding to achieve a more representative display of categorical features.
 * Iteratively perform log transforms on skewed features (we began this process, but did not see significant improvement of RMSLE).
