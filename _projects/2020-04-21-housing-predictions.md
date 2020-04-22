@@ -1,7 +1,7 @@
 ---
 title: "House Price Predictions"
 subtitle: 'UC Berkeley | Machine Learning'
-date: 2020-04-23 00:00:00
+date: 2020-04-21 00:00:00
 featured_image: '/images/ML_cover.png'
 ---
 
@@ -11,8 +11,8 @@ featured_image: '/images/ML_cover.png'
 
 #### Project Description
 
-The <a href="https://github.com/allison-godfrey/w207-final-group-project/blob/master/W207_Predict_Property_Sale_Price.ipynb">House Price Prediction</a>competition using Advanced Regression Techniquesis is based on the <a href="http://jse.amstat.org/v19n3/decock.pdf">Ames Housing Dataset</a>. The goal of this project is to predict sale price of homes on the given training and test data sets containing 90 features of each home. 
-In this <a href="https://github.com/allison-godfrey/w207-final-group-project/blob/master/W207_Predict_Property_Sale_Price.ipynb">Notebook</a>, my team and I used machine learning approaches to try to most accurately predict home price based on relevant features. Our approach to this problem will be first to explore the data through our EDA which will help us to extract the most relevant features. Then, we will apply different machine learning models with various regularization strengths to assess the accuracies, evaluate and compare the errors, update the models and features as needed and choose the best model accordingly. 
+The <a href="https://github.com/allison-godfrey/w207-final-group-project/blob/master/W207_Predict_Property_Sale_Price.ipynb">House Price Prediction</a> Kaggle competition is based on the <a href="http://jse.amstat.org/v19n3/decock.pdf">Ames Housing Dataset</a>. The goal of this project is to predict sale price of homes on the given training and test data sets containing 90 features of each home. 
+In this <a href="https://github.com/allison-godfrey/w207-final-group-project/blob/master/W207_Predict_Property_Sale_Price.ipynb">Final Notebook</a>, my team and I used machine learning approaches to try to most accurately predict home price based on relevant features. Our approach to this problem was first to explore the data through EDA which helped us to extract the most relevant features for our models. Then, we applied different machine learning models with various regularization strengths and blending weights and assess the accuracies, evaluate and compare the errors, update the models and features, and choose the best model accordingly. 
 
 The main components of the notebook are:
 
@@ -23,7 +23,7 @@ The main components of the notebook are:
 * Transform features
 * Outlier analysis
 * Exclusion of Columns
-* Data split - train and dev data sets
+* Data split - train and dev data sets (later we move to Cross Validation)
 * Machine Learning Models Building
 * Bayesian Ridge Regression
 * Lasso Model
@@ -44,16 +44,6 @@ Machine Learning, Data Cleansing, Correlation Analysis, Feature Engineering
 #### Tools
 
 Python, SciKit Learn, Jupyter Notebooks
-
-#### Motivation
-
-Vaccinations provide people the ability to develop immunity to particular diseases. When the majority of a population is vaccinated, “herd immunity” protects those who have not been vaccinated by blocking the spread of these diseases. However, the 21st century has seen worldwide concern over the safety of the Measles/ Mumps/Rubella (MMR) vaccine and other types of vaccines - despite the lack of scientific evidence to substantiate these fears.
-
-This trend has been called vaccine hesitancy, anti-vaccination, or “anti-vax” for short. Anti-vax refers to a refusal or reluctance to have children vaccinated despite the overwhelming evidence that vaccines are safe and effective. This hesitancy may come from a misunderstanding of the ingredients in vaccines and how they work, mistrust of doctors and pharmaceutical companies, and/or belief in the unfounded associations of vaccines with other diseases and disorders such as autism.
-
-Anti-vaccination was identified by the World Health Organization as one of top ten global health threats of 2019. In California, an alarming 15-year-long anti-vax trend led to Senate Bill 277, signed into law in 2015, which eliminated Personal Belief Exemptions for vaccinations of school-age children. California is currently one of only three states in the US with such a law.
-
-> “In this project, we visualize anti-vaccination in California in the period from 2000 through the passage of Senate Bill 277 in 2015.”
 
 <!-- The theme also supports markdown tables:
 
@@ -125,10 +115,10 @@ Through iterating back on the above processes, we started at a Kaggle placement 
 
 
 Some further extensions of our model would include:
-* Perfect the combination of manual feature selection and using L1 and L2 regularization to achieve the lowest possible RMSE without the issue of overfitting of our train data.
+* Perfect the combination of manual feature selection and using L1 and L2 regularization to achieve the lowest possible RMSE without overfitting our train data.
 * Use a combination of LabelEncoder and One Hot Encoding to achieve a more representative display of categorical features.
 * Iteratively perform log transforms on skewed features (we began this process, but did not see significant improvement of RMSLE).
-* Since we have the neighborhood of each home, combine data with school ratings data to gain a more accurate prediction of house price. 
+* Since we have the neighborhood of each home, combine existing data set with school ratings data to gain a more accurate prediction of house price. 
 
 
 ---
