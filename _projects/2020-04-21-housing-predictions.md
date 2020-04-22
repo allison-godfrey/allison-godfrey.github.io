@@ -12,7 +12,7 @@ featured_image: '/images/ML_cover.png'
 #### Project Description
 
 The <a href="https://github.com/allison-godfrey/w207-final-group-project/blob/master/W207_Predict_Property_Sale_Price.ipynb">House Price Prediction</a> Kaggle competition is based on the <a href="http://jse.amstat.org/v19n3/decock.pdf">Ames Housing Dataset</a>. The goal of this project is to predict sale price of homes on the given training and test data sets containing 90 features of each home. 
-In this <a href="https://github.com/allison-godfrey/w207-final-group-project/blob/master/W207_Predict_Property_Sale_Price.ipynb">Final Notebook</a>, my team and I used machine learning approaches to try to most accurately predict home price based on relevant features. Our approach to this problem was first to explore the data through EDA which helped us to extract the most relevant features for our models. Then, we applied different machine learning models with various regularization strengths and blending weights and assess the accuracies, evaluate and compare the errors, update the models and features, and choose the best model accordingly. 
+In this <a href="https://github.com/allison-godfrey/w207-final-group-project/blob/master/W207_Predict_Property_Sale_Price.ipynb">Final Notebook</a>, my team and I used machine learning approaches to try to most accurately predict home price based on relevant features. 
 
 The main components of the notebook are:
 
@@ -93,7 +93,7 @@ Change the number inside the 'columns' setting to create different types of gall
 
 ### Results
 
-We measured each model's "success" by its Root Mean Squared Log Error (RMSLE). Looking at the following chart, the RMSLE was lowest in our Blended Model with a distinct set of model weights. This RMSLE (0.09252) achieved our best competition score, but was not our lowest RMSLE within our notebook, illustrating that our models were prone to overfitting. The RMSLE of 0.09252 represents our best balance between overfitting and generalizability. 
+We measured each model's accuracy by its Root Mean Squared Log Error (RMSLE). Looking at the following chart, the RMSLE was lowest in our Blended Model with a distinct set of model weights. This RMSLE (0.09252) achieved our best competition score, but was not our lowest RMSLE within our notebook, illustrating that our models were prone to overfitting. The RMSLE of 0.09252 represents our best balance between overfitting and generalizability. 
 
 <img src="/images/RMSE_analysis.png">
 
