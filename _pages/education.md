@@ -1,18 +1,12 @@
 ---
-title: About Me
+title: Education
 subtitle: Former math teacher and emerging data scientist. 
 description: Former math teacher and emerging data scientist. 
 featured_image: /images/demo/demo-portrait.jpg
 ---
-
-<!-- ![](/images/equity.png) -->
-
-### My Path to Data Science
-
-I have a longstanding passion for working towards educational equity. Specifcally, I want to be in the fight towards breaking down the economic, technological and health barriers that stand between students and quality learning. I believe that a bias-informed application of Data Science can help break down these barriers and help make education a right, not a privilege. 
-
+<!-- 
 ### Education
-
+ -->
 #### Master of Information and Data Science, **UC Berkeley**
 * Research Design and Applications of Data Science
 * Statistics for Data Science 
@@ -25,7 +19,7 @@ I have a longstanding passion for working towards educational equity. Specifcall
 * Major: Mathematical Economics
 * Minor: Educational Studies
 
-### Technical Skills 
+<!-- ### Technical Skills 
 
 #### Data Visualization
 * Tableau 
@@ -48,7 +42,7 @@ I have a longstanding passion for working towards educational equity. Specifcall
 * Kafka 
 * Spark
 * HDFS
-
+ -->
 
 <!-- ## Get Index
 

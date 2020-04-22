@@ -1,7 +1,7 @@
 basic_settings:
   site_title: Allison Godfrey
   site_tagline: Former math teacher and emerging data scientist
-  favicon_image: /images/favicon.png
+  favicon_image: /images/cover.png
 
 header_settings:
   logo_image: 
@@ -10,14 +10,12 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Latest'
+    - title: 'Blog'
       url: '/'
     - title: 'Projects'
       url: '/projects/'
-    - title: 'Blog'
-      url: '/blog/'
     - title: 'About'
-      url: '/about'
+      url: '/about/'
     - title: 'Contact'
       url: '/contact'
 
@@ -31,9 +29,9 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: 'https://www.facebook.com/allison.godfrey.75'
-  github_url: 'https://github.com/allison-godfrey'
   linkedin_url: 'https://www.linkedin.com/in/allison-godfrey/'
+  github_url: 'https://github.com/allison-godfrey'
+  facebook_url: 'https://www.facebook.com/allison.godfrey.75'
 
 color_settings:
   background_color: '#ffffff'
