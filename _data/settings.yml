@@ -1,7 +1,7 @@
 basic_settings:
   site_title: Allison Godfrey
   site_tagline: Former math teacher and emerging data scientist
-  favicon_image: /images/cover1.png
+  favicon_image: /images/favicon.png
 
 header_settings:
   logo_image: 
