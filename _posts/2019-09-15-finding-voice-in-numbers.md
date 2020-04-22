@@ -1,6 +1,6 @@
 ---
 title: "A Number is Worth a Thousand Words"
-date: 2020-03-30 00:00:00
+date: 2019-09-15 00:00:00
 featured_image: '/images/cover2.png'
 excerpt: I have always loved numbers. I think they have the ability to tell stories, show perspectives, create transparency, and drive decisions... 
 ---
