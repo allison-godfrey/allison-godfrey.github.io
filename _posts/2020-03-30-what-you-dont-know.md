@@ -1,6 +1,6 @@
 ---
 title: "What You Don't Know Can Hurt You"
-date: 2020-04-22 00:00:00
+date: 2020-03-30 00:00:00
 featured_image: '/images/cover2.png'
 excerpt: When I was growing up, I never felt like I was different from my male counterparts. I never felt less than. And I never felt like anyone was treating me as if I were less than. But it’s not just about how I felt on the path I was on. It’s also about the paths that were implicitly blocked from my view... 
 ---
@@ -21,7 +21,17 @@ After college, I went on to teaching 8th grade math in East Oakland. At the scho
 
 We can blame this social pressure on middle schoolers being middle schoolers. But it doesn’t just end in middle school. The engineering and related worlds are isolating for women. 
 
-> And women are going to continue to “choose” not to enter until some of our friends are in it.
+It's framed as a choice for a woman to go into tech (or other male dominated fields). 
+It is almost an invisible barrier to entry for women that they *can* pass, but will be ostracized and made to regret it once they do.
+
+Option 1: Work in a field where you see other like-minded people, feel included and valued by your coworkers, and have role models in the field to guide you and show you that success is possible
+
+Option 2: Work in a field you are likely to feel excluded in, you have very few role models (if any) in your field to look up to, you will continuously be trying to prove you belong, BUT you'll be in a field that utilizes your skillset.
+
+
+The barrier is disguised as a choice. So yes, maybe it is technically a choice. But it's a choice that's largely made for women. And women are going to continue to *choose* not to enter until, as my 8th graders would say, some of their friends are in it.
+
+> "And women are going to continue to *choose* not to enter until, as my 8th graders would say, some of their friends are in it."
 
 <!-- This page is a demo that shows everything you can do inside portfolio and blog posts.
 
