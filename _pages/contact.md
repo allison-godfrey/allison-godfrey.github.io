@@ -1,6 +1,6 @@
 ---
 title: Contact
-subtitle: Please reach our with any inquiries or comments. I'd love to hear from you!
+subtitle: Please reach out with any inquiries or comments. I'd love to hear from you!
 description: Former teacher and emerging data scientist
 featured_image: /images/cover2.png
 ---

@@ -8,6 +8,7 @@ featured_image: '/images/ML_cover.png'
 <!-- ![](/images/impact_chart.png) -->
 
 <!-- ## About the Project -->
+<br> Contributors: Allison Godfrey, Ian Anderson, Jacky Ma, and Surya Gutta
 
 #### Project Description
 
