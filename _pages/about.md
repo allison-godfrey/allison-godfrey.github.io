@@ -9,7 +9,7 @@ featured_image: /images/cover2.png
 
 <!-- ### My Path to Data Science -->
 
-I have a longstanding passion for working towards educational equity. Specifcally, I want to be in the fight towards breaking down the economic, technological and health barriers that stand between students and quality learning. I believe that a bias-informed application of data science can work to break down these barriers and help make quality education a right, not a privilege. 
+I have a longstanding passion for working towards educational equity. Specifically, I want to be in the fight towards breaking down the economic, technological and health barriers that stand between students and quality learning. I believe that a bias-informed application of data science can work to break down these barriers and help make quality education a right, not a privilege. 
 
 ### Education
 
