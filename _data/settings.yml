@@ -31,7 +31,7 @@ contact_settings:
 social_settings:
   linkedin_url: 'https://www.linkedin.com/in/allison-godfrey/'
   github_url: 'https://github.com/allison-godfrey'
-  facebook_url: 'https://www.facebook.com/allison.godfrey.75'
+  # facebook_url: 'https://www.facebook.com/allison.godfrey.75'
 
 color_settings:
   background_color: '#ffffff'
