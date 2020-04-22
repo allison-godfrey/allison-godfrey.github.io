@@ -29,7 +29,7 @@ Option 1: Work in a field where you see other like-minded people, feel included 
 Option 2: Work in a field you are likely to feel excluded in, you have very few role models (if any) in your field to look up to, you will continuously be trying to prove you belong, BUT you'll be in a field that utilizes your skillset.
 
 
-The barrier is disguised as a choice. So yes, maybe it is technically a choice. But it's a choice that's largely made for women. And women are going to continue to *choose* not to enter until, as my 8th graders would say, some of their friends are in it.
+So yes, maybe it is technically a choice. But it's a choice that's largely made for women. And women are going to continue to *choose* not to enter until, as my 8th graders would say, some of their friends are in it.
 
 > "And women are going to continue to *choose* not to enter until, as my 8th graders would say, some of their friends are in it."
 
