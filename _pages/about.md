@@ -23,7 +23,7 @@ Research Design and Applications of Data Science
 
 ##### Bachelor of Arts, **Colgate University**
 Major: Mathematical Economics
-Minor: Educational Studies
+<br> Minor: Educational Studies
 
 ### Technical Skills 
 
