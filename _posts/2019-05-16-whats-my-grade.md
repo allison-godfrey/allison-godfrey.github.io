@@ -22,4 +22,5 @@ There was also a new policy for after school sessions. The only question allowed
 Of course, this new system was not without bumps in the road. Trust me, there were plenty of bumps. It was much more difficult to run a classroom with a more ambiguous grading system. The classroom turned into a more unpredictable environment for students, which came with more anxiety and fears. But, throughout the school year, these fears lessened over time and the anxiety faded. There was an unprecedented level of engagement and genuine inquiry. 
 
 A lot of times, I think data transparency in the classroom is associated with students tracking their own grades and being able to take the initiative to fix them. Of course, data transparency is partly about students tracking and owning their progress. However, the measure of progress is what needed tweaking in our classroom. 
+> "The measure of progress is what needed tweaking in our classroom."
 
