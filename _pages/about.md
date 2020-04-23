@@ -27,14 +27,14 @@ Major: Mathematical Economics
 
 ### Technical Skills 
 
-##### Data Visualization
-Tableau, Javascript, CSS, HTML, D3, Matplotlib
+##### Data Manipulation and Visualization
+Tableau, Javascript, CSS, HTML, D3.js, Matplotlib, Pandas, Numpy
 
 ##### Statistics
 R, Bivariate/ Multiple OLS Estimation, Multiple OLS Regression Inference
 
 ##### Machine Learning
-Python (SciKit Learn)
+Python (Scikit-learn)
 
 ##### Data at Scale 
 SQL, Google BigQuery, Google Analytics, Kafka, Spark, HDFS
