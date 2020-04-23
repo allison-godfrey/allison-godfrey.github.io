@@ -45,7 +45,7 @@ Machine Learning, Data Cleansing, Correlation Analysis, Feature Engineering
 
 #### Tools
 
-Python, SciKit Learn, Jupyter Notebooks
+Python, SciKit Learn, Jupyter Notebooks, Matplotlib
 
 <!-- The theme also supports markdown tables:
 
@@ -102,26 +102,10 @@ We measured each model's accuracy by its Root Mean Squared Log Error (RMSLE). Lo
 
 ### Summary
 
-From the beginning, our focus was more on *know your data*. We took the following iterative approach to improve the accuracy of SalePrice prediction:
+From the beginning, our focus was more on *know your data*. Therefore, we were very intentional about how we encoded each categorical and ordinal feature, how we assigned missing values, how we aggregated some features to avoid multicolinearity, and how we iteratively performed our feature selection process. See the following <a href = "https://docs.google.com/presentation/d/1aOrHdPwBKAj5kLOmrwoNdqE_iuzeALOTwuezoJOVeJk/edit#slide=id.g72f85851ac_0_198">Slide Deck</a> to discover more about our iterative process and some further extensions of the model. 
 
-* Replace the missing data appropriately based on the features and create new features by aggregating some of the features.
-* For categorical features, assign values to ordinal data and hot encode the purely categorical data.
-* Apply log transformation on target feature SalePrice and other skewed features.
-* Remove outliers after thorough analysis of the features and the corresponding data.
-* Initial feaure selection is done after a) correlation analysis of the features with the target feature SalePrice and b) analysis of multicollinearity among the features.
-* Iterate back on features selected to improve model accuracy. 
-* Test with multiple machine learning algorithms focusing on handling multicollinearity issues.
-* Analyze the models RMSE values, fine tuned the weights and utilize the blended model.
+We started at a Kaggle placement of 3500 and have worked our way up to a placement of 525 **(top 12% of submissions).** 
 
-Through iterating back on the above processes, we started at a Kaggle placement of 3500 and have worked our way up to a placement of 525 **(top 10% of submissions).** 
-
-<br>
-<br>
-**Some further extensions of our model would include:**
-* Perfect the combination of manual feature selection and using L1 and L2 regularization to achieve the lowest possible RMSE without overfitting our train data.
-* Use a combination of LabelEncoder and One Hot Encoding to achieve a more representative display of categorical features.
-* Iteratively perform log transforms on skewed features (we began this process, but did not see significant improvement of RMSLE).
-* Since we have the neighborhood of each home, combine existing data set with school ratings data to gain a more accurate prediction of house price. 
 
 
 ---
