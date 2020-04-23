@@ -7,7 +7,7 @@ excerpt: When I was growing up, I never felt like I was different from my male c
 
 <!-- ![](/images/equity.png) -->
 
-When I was growing up, I never felt like I was different from my male classmates. I never felt less than. And I never felt like anyone was treating me as if I were less than. 
+Growing up, I never felt like I was different from my male classmates. I never felt less than. And I never felt like anyone was treating me as if I were less than. 
 
 But it’s not always about how I felt on the path I was on. Sometimes it’s about the paths that were implicitly blocked from my view.
 
