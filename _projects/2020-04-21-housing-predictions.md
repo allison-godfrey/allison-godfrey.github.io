@@ -17,14 +17,17 @@ In this <a href="https://github.com/allison-godfrey/w207-final-group-project/blo
 
 The main components of the notebook are:
 
-* EDA and Feature Engineering
-* Univariate and Bivariate analysis of explanatory features
-* Replace missing values
-* Encode categorical features
-* Transform skewed variables (features and outcome variable)
-* Outlier analysis
-* Exclusion of columns
-* Data split - train and dev data sets (later we move to Cross Validation)
+* EDA and data cleansing
+	* Outlier analysis
+	* Replace missing values
+	* Exclude columns over 10% missing values
+* Feature Engineering
+	* Univariate and Bivariate analysis of explanatory features
+	* Encode categorical and ordinal features
+	* Transform skewed variables (features and outcome variable)
+* Data split - 
+	* 80% train, 20% dev 
+	* 5-fold Cross Validation
 * Model Building
 	* Bayesian Ridge Regression
 	* Lasso Model
@@ -37,6 +40,8 @@ The main components of the notebook are:
 	* Ada Boost Regressor
 	* Blended Model
 * Assessment of individual and blended models
+	* Adjust model weights 
+	* Overfitting versus generalization analysis
 <br>
 
 #### Skills
