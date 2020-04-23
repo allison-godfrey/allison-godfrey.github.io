@@ -107,7 +107,7 @@ We measured each model's accuracy by its Root Mean Squared Log Error (RMSLE). Lo
 
 ### Summary
 
-From the beginning, our focus was more on *know your data*. Therefore, we were very intentional about how we encoded each categorical and ordinal feature, how we assigned missing values, how we aggregated some features to avoid multicolinearity, and how we iteratively performed our feature selection process. See the following <a href = "https://docs.google.com/presentation/d/1aOrHdPwBKAj5kLOmrwoNdqE_iuzeALOTwuezoJOVeJk/edit#slide=id.g72f85851ac_0_198">Slide Deck</a> to discover more about our iterative process and some further extensions of the model. 
+From the beginning, our focus was more on *know your data*. Therefore, we were very intentional about how we encoded each categorical and ordinal feature, how we assigned missing values, how we aggregated some features to avoid multicolinearity, and how we iteratively performed our feature selection process. See the following <a href="https://allison-godfrey.github.io/assets/final_project.pdf">Slide Deck</a> to discover more about our iterative process and some further extensions of the model. 
 
 We started at a Kaggle placement of 3500 and have worked our way up to a placement of 525 **(top 12% of submissions).** 
 
