@@ -17,14 +17,14 @@ I loved math throughout high school. Like, nerdily loved math. However, when I w
 
 Knowing nothing about computer science when I entered college (see previous paragraph), it did not even occur to me to take CS 101. I didn’t have a single friend in a computer science class. Not one of my family members had ever taken a computer science class or pursued computer science in any way. My introduction to some basic coding was in an econometrics class in my sophomore year. Only then was computer science even on my radar. By the time I enrolled in CS 101 on a whim, it was too late for a minor, let alone a major. If only I knew a little bit about it, a little bit earlier. 
 
-After college, I went on to teaching 8th grade math in East Oakland. At the school, there was a computer science elective course. We always had trouble getting a single girl to join the course. Since it was an elective, we could not force them to move from the under-enrolled art class to the computer science class. Therefore, the course remained close to 100% male. I had female students tell me they were interested in becoming engineers or website designers, but I would not see any of them sign up for the elective course. When I asked them why they don’t want to take the class, I would get the same response, verbatim: “none of my friends are in it.”
+After college, I went on to teach 8th grade math in East Oakland. At the school, there was a computer science elective course. We always had trouble getting a single girl to join the course. Since it was an elective, we could not force them to move from the under-enrolled art class to the computer science class. Therefore, the course remained close to 100% male. I had female students tell me they were interested in becoming engineers or website designers, but I would not see any of them sign up for the elective course. When I asked them why they don’t want to take the class, I would get the same response, verbatim: “none of my friends are in it.”
 
 We can blame this social pressure on middle schoolers being middle schoolers. But it doesn’t just end in middle school. The engineering and related worlds are isolating for women. 
 
 It's framed as a choice for a woman to go into tech (or other male dominated fields). 
 It is almost an invisible barrier to entry for women that they *can* pass, but will be ostracized and made to regret it once they do.
 
-Option 1: Work in a field where you see other like-minded people, feel included and valued by your coworkers, and have role models in the field to guide you and show you that success is possible
+Option 1: Work in a field where you see other like-minded people, feel included and valued by your coworkers, and have role models in the field to guide you and show you that success is possible.
 
 Option 2: Work in a field you are likely to feel excluded in, you have very few role models (if any) in your field to look up to, you will continuously be trying to prove you belong, BUT you'll be in a field that utilizes your skillset.
 

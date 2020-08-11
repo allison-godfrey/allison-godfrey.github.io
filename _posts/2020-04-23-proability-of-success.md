@@ -7,7 +7,7 @@ excerpt: Data science has infiltrated many fields, helping to increase revenue, 
 
 <!-- ![](/images/equity.png) -->
 
-Data science has infiltrated many fields, helping to increase revenue, scale out business practices, improve recommender systems, predict outcomes, drive business decisions and make causal inferences. Data science, and more specifically machine learning, is at the forefront of many business practices including at companies like Netflix, Amazon, Zillow, Facebook, Airbnb and Google, to name a few. It has changed the way companies understand their consumers and drive business decisions. 
+Data science has infiltrated many fields, helping to increase revenue, scale out business practices, improve recommender systems, predict outcomes, drive business decisions and make causal inferences. Data science, and more specifically machine learning, is at the forefront of many business practices at companies like Netflix, Amazon, Zillow, Facebook, Airbnb and Google, to name a few. It has changed the way companies understand their consumers and drive business decisions. 
 
 However, we often do not know why a given model works. Take neural networks: a machine learning model that contains various nodes and edges, automatically and iteratively adjusting the weights at each layer to achieve the most accurate classification. Essentially, there is no way to know how the model is making a given prediction, making neural networks “black box” models. Yet, neural networks achieve some of the highest prediction accuracies in machine learning. 
 
