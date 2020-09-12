@@ -24,6 +24,10 @@ featured_image: /images/cover2.png
 
 <p>&nbsp;</p>
 
+<img src="/images/photos/emma.jpg" style="float: left; margin-right: 10px;" />
+
+<p>&nbsp;</p>
+
 <img src="/images/photos/caroline_wedding.jpg" style="float: left; margin-right: 10px;" />
 
 <p>&nbsp;</p>
