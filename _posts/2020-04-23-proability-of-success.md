@@ -1,5 +1,5 @@
 ---
-title: "Probability of Success: 0.999"
+title: "probability of success: 0.999"
 date: 2020-04-23 00:00:00
 featured_image: '/images/cover2.png'
 excerpt: Data science has infiltrated many fields, helping to increase revenue, scale out business practices, improve recommender systems, predict outcomes, drive business decisions and make causal inferences...

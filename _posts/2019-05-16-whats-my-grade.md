@@ -1,5 +1,5 @@
 ---
-title: "But... What's My Grade?"
+title: "but... what's my grade?"
 date: 2019-05-16 00:00:00
 featured_image: '/images/cover2.png'
 excerpt: It’s the fourth week of school. I’m in the middle of handing back student quizzes, running all over the classroom trying to get them all back under 5 minutes. Teachers definitely get their steps in. I graded these quizzes a bit differently and am anxiously awaiting the student responses...

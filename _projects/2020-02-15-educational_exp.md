@@ -1,6 +1,6 @@
 ---
-title: "Does Political Leaning Affect Education Expenditures?"
-subtitle: 'Allison Godfrey | Individual Project'
+title: "does political leaning affect education expenditures?"
+subtitle: 'allison godfrey | individual project'
 date: 2020-02-15 00:00:00
 featured_image: '/images/expenditure_cover_2.png'
 ---

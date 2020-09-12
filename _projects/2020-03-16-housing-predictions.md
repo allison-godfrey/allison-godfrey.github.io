@@ -1,6 +1,6 @@
 ---
-title: "Predicting House Prices"
-subtitle: 'UC Berkeley | Machine Learning'
+title: "predicting house prices"
+subtitle: 'uc berkeley | machine learning'
 date: 2020-03-16 00:00:00
 featured_image: '/images/ML_cover.png'
 ---

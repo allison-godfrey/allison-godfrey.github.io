@@ -1,5 +1,5 @@
 ---
-title: "What You Don't Know Can Hurt You"
+title: "what you don't know can hurt you"
 date: 2020-02-10 00:00:00
 featured_image: '/images/cover2.png'
 excerpt: Growing up, I never felt like I was different from my male counterparts. I never felt less than. And I never felt like anyone was treating me as if I were less than. But it’s not just about how I felt on the path I was on. It’s also about the paths that were implicitly blocked from my view... 

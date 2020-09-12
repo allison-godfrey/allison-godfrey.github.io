@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Allison Godfrey
-  site_tagline: Former math teacher and emerging data scientist
+  site_title: allison godfrey
+  site_tagline: data, photography, education
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -10,13 +10,15 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Blog'
+    - title: 'blog'
       url: '/'
-    - title: 'Projects'
+    - title: 'projects'
       url: '/projects/'
-    - title: 'About'
-      url: '/about'
-    - title: 'Contact'
+    - title: 'photography'
+      url: '/photography/'
+    # - title: 'about'
+    #   url: '/about'
+    - title: 'contact'
       url: '/contact'
 
 grid_settings:
