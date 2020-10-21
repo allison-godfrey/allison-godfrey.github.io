@@ -20,6 +20,10 @@ featured_image: /images/cover2.png
 
 <p>&nbsp;</p>
 
+<img src="/images/photos/puppy_heidi.jpg" style="float: left; margin-right: 10px;" />
+
+<p>&nbsp;</p>
+
 <img src="/images/photos/heidi.jpg" style="float: left; margin-right: 10px;" />
 
 <p>&nbsp;</p>
