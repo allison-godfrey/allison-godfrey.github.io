@@ -16,7 +16,27 @@ featured_image: /images/cover2.png
 
 <p>&nbsp;</p>
 
+<img src="/images/photos/white_silence.jpg" style="float: left; margin-right: 10px;" />
+
+<p>&nbsp;</p>
+
 <img src="/images/photos/heidi.jpg" style="float: left; margin-right: 10px;" />
+
+<p>&nbsp;</p>
+
+<img src="/images/photos/heidi_field.jpg" style="float: left; margin-right: 10px;" />
+
+<p>&nbsp;</p>
+
+<img src="/images/photos/sunset.jpg" style="float: left; margin-right: 10px;" />
+
+<p>&nbsp;</p>
+
+<img src="/images/photos/san_juan.jpg" style="float: left; margin-right: 10px;" />
+
+<p>&nbsp;</p>
+
+<img src="/images/photos/ho.jpg" style="float: left; margin-right: 10px;" />
 
 <p>&nbsp;</p>
 
@@ -25,14 +45,6 @@ featured_image: /images/cover2.png
 <p>&nbsp;</p>
 
 <img src="/images/photos/emma.jpg" style="float: left; margin-right: 10px;" />
-
-<p>&nbsp;</p>
-
-<img src="/images/photos/caroline_wedding.jpg" style="float: left; margin-right: 10px;" />
-
-<p>&nbsp;</p>
-
-<img src="/images/photos/rob_wedding.jpg" style="float: left; margin-right: 10px;" />
 
 <p>&nbsp;</p>
 

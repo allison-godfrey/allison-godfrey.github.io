@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: about me
 subtitle: Former math teacher and emerging data scientist. 
 description: Former math teacher and emerging data scientist. 
 featured_image: /images/cover2.png
